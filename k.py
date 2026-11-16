@@ -6,7 +6,7 @@ import time
 # ==============================================================================
 # 💖 KİŞİSELLEŞTİRME AYARI:
 # ==============================================================================
-ISIM = "NEHİR"  # <-- Buraya istediğin ismi yazabilirsin
+ISIM = "NAME"  # <-- Buraya istediğin ismi yazabilirsin
 
 YUKSEKLIK = 36  # Kalbin genel boyutu
 YAZMA_HIZI = 0.08  # Daktilo harf hızı
